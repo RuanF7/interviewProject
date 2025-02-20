@@ -7,6 +7,7 @@ async function main() {
 
   app.listen(port, () => {
     console.log("Hello World!")
+    console.log("Hello World2!")
     console.log(`App listening on port ${port}`)
   })
 }
